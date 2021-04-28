@@ -502,7 +502,7 @@ header {
 
 @media (min-width: 1220px) {
   .hero-inner {
-    background-image: url(/img/hero-img.png);
+    background-image: url(https://nabekou1996.github.io/portfolio_1/hero-img.png);
     width: 76.3889%;
     height: 640px;
   }
@@ -510,7 +510,7 @@ header {
 
 @media (max-width: 1219px) {
   .hero-inner {
-    background-image: url(/img/hero-img-tab.png);
+    background-image: url(https://nabekou1996.github.io/portfolio_1/hero-img-tab.png);
     width: 78.125%;
     height: 890px;
   }
@@ -518,7 +518,7 @@ header {
 
 @media (max-width: 767px) {
   .hero-inner {
-    background-image: url(/img/hero-img-sp.png);
+    background-image: url(https://nabekou1996.github.io/portfolio_1/hero-img-sp.png);
     width: 76.5333%;
     height: 580px;
   }
@@ -602,7 +602,7 @@ header {
 
 .about-inner {
   position: relative;
-  background-image: url(/img/about-img.png);
+  background-image: url(https://nabekou1996.github.io/portfolio_1/about-img.png);
   background-size: cover;
   height: 607px;
   display: flex;
